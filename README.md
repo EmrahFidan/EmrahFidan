@@ -16,28 +16,7 @@
    </p>  
 <br>
 
-<h2 style="color: #2a9d8f">🔗 Connect with me</h2>
-<br />
-<a href="https://github.com/EmrahFidan" target="_blank">
-        <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" alt="github" width="35px"/>
-    </a>
-    <a href="https://www.linkedin.com/in/emrah-fidann/" target="_blank">
-        <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="linkedln" width="35px"/>
-    </a>
-    <a href="https://medium.com/@Emrah_Fdnn" target="_blank">
-        <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/2504/2504925.png" alt="medium" width="35px"/>
-    </a>
-    <a href="https://www.instagram.com/emrah_fdnn/" target="_blank">
-        <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="instagram" width="35px"/>
-    </a>
-    <a href="https://twitter.com/Emrah_fdnn" target="_blank">
-        <img  style="margin:0 15px 15px 0;" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="threads" width="35px"/>
-    </a>
-    <a href="https://www.threads.net/@emrah_fdnn" target="_blank">
-        <img  style="margin:0 15px 15px 0;" src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" alt="twitter" width="30px"/>
-    </a>
-    
-<!-- End Footer -->
+
 
 <!-- Languages and Tools -->
 
@@ -132,5 +111,29 @@
 <h2 style="color: #2a9d8f">✍ Latest Blogs</h2>
 <br />
 <div class="youtube videos cards" align="center">
+
+
+---
+<br />
+<a href="https://github.com/EmrahFidan" target="_blank">
+        <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" alt="github" width="35px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/emrah-fidann/" target="_blank">
+        <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="linkedln" width="35px"/>
+    </a>
+    <a href="https://medium.com/@Emrah_Fdnn" target="_blank">
+        <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/2504/2504925.png" alt="medium" width="35px"/>
+    </a>
+    <a href="https://www.instagram.com/emrah_fdnn/" target="_blank">
+        <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="instagram" width="35px"/>
+    </a>
+    <a href="https://twitter.com/Emrah_fdnn" target="_blank">
+        <img  style="margin:0 15px 15px 0;" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="threads" width="35px"/>
+    </a>
+    <a href="https://www.threads.net/@emrah_fdnn" target="_blank">
+        <img  style="margin:0 15px 15px 0;" src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" alt="twitter" width="30px"/>
+    </a>
+    
+<!-- End Footer -->
 
 </div>
