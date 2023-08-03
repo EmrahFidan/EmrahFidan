@@ -33,11 +33,11 @@
    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
       <img alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img alt="Flutter" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+      <img alt="HTML" height="50px" style=padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -45,25 +45,26 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img alt="Dart" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img alt="R" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img alt="Firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
      <img alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img alt="Notion" height="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=nvtEH6DpqruC&format=png" />
-  </a>
+ <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+  <img height="50" src="notion.svg" alt="notion"/>
+</a>
+
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img alt="Visual Studio Code" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />    
   </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+   <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer">
     <img alt="SourceTree" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" />
   </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -72,14 +73,11 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/tr-tr/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
     <img alt="PowerPoint" height="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=81726&format=png" />    
   </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img alt="Pycharm" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img alt="Azure " height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />    
   </a>
 </div>
 <br>
@@ -112,9 +110,6 @@
 <br />
 <div class="youtube videos cards" align="center">
 
-
----
-<br />
 <a href="https://github.com/EmrahFidan" target="_blank">
         <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" alt="github" width="35px"/>
     </a>
