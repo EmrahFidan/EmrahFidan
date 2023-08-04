@@ -19,12 +19,18 @@
     <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
    ✍️ I write blogs about the areas I am interested in https://medium.com/@Emrah_Fdnn
    </p>
+<<<<<<< HEAD
     <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
    💭 Ask me about [Twitter](https://twitter.com/Emrah_fdnn) , [Instagram](https://www.instagram.com/emrah_fdnn/) and [Threads](https://www.threads.net/@emrah_fdnn) !
    </p>
    <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
   📫 How to reach me: emrahfdn.work@gmail.com
    </p> 
+=======
+  <p style="text-align: justify; margin: 0 20px; font-size: 15px;">
+  📫 How to reach me: <a href="mailto:emrahfdn.work@gmail.com">emrahfdn.work@gmail.com</a>
+</p>
+>>>>>>> 8d270d1928d0e0f403a62ba0eaad2c5a085c9731
 <br>
 
 <!-- Languages and Tools -->
