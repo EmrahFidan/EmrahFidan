@@ -121,12 +121,16 @@
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <div class="stats" align="center">
+<!-- Begin Stats Cards -->
+<!-- Resources: -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats -->
+<div class="stats" align="center">
 
-![Emrah Fidan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmrahFidan&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20)
-
+![Emrah Fidan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmrahFidan&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&token=${process.env.PAT_I})
 
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmrahFidan&layout=compact&show_icons=true&theme=tokyonight&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmrahFidan&layout=compact&show_icons=true&theme=tokyonight&border_radius=20&token=${process.env.PAT_I})
+
 
 
 </div>
