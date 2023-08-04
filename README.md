@@ -3,20 +3,29 @@
 
 <!--about--> 
 <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
-   💕 I am software developer interested in deep learning, front-end, mobile application development, data management.
+   💕 I am software developer interested in deep learning, front-end, mobile application development, data management. I chose my profession because of my interest in artificial intelligence, I want to progress in machine learning and deep learning.
+   </p>
+   <br>
+   <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
+   Instagram: @emrah_fdnn 
+   </p>
+   <br>
+      <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
+   💻 I’m currently working in every field, tryingto improve myself
    </p>
    <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
-   💻 I’m currently developing myself in the field of machine learning
+    🌱 I’m currently developing myself in the field of machine learning
    </p>
     <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
    ✍️ I write blogs about the areas I am interested in https://medium.com/@Emrah_Fdnn
    </p>
+    <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
+   💭 Ask me about [Twitter](https://twitter.com/Emrah_fdnn) , [Instagram](https://www.instagram.com/emrah_fdnn/) and [Threads](https://www.threads.net/@emrah_fdnn) !
+   </p>
    <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
   📫 How to reach me: emrahfdn.work@gmail.com
-   </p>  
+   </p> 
 <br>
-
-
 
 <!-- Languages and Tools -->
 
@@ -103,27 +112,18 @@
 </div>
 <!--  End Stats Cards -->
 
+---
 
-<!-- Latest YouTube Videos -->
-
-<h2 style="color: #2a9d8f">✍ Latest Blogs</h2>
 <br />
 <div class="youtube videos cards" align="center">
-
-<a href="https://github.com/EmrahFidan" target="_blank">
-        <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" alt="github" width="35px"/>
-    </a>
     <a href="https://www.linkedin.com/in/emrah-fidann/" target="_blank">
         <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="linkedln" width="35px"/>
-    </a>
-    <a href="https://medium.com/@Emrah_Fdnn" target="_blank">
-        <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/2504/2504925.png" alt="medium" width="35px"/>
     </a>
     <a href="https://www.instagram.com/emrah_fdnn/" target="_blank">
         <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="instagram" width="35px"/>
     </a>
     <a href="https://twitter.com/Emrah_fdnn" target="_blank">
-        <img  style="margin:0 15px 15px 0;" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="threads" width="35px"/>
+        <img  style="margin:0 15px 15px 0;" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="threads" width="38px"/>
     </a>
     <a href="https://www.threads.net/@emrah_fdnn" target="_blank">
         <img  style="margin:0 15px 15px 0;" src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" alt="twitter" width="30px"/>
