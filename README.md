@@ -9,7 +9,6 @@
    <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
    Instagram: @emrah_fdnn 
    </p>
-   <br>
       <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
    💻 I’m currently working in every field, tryingto improve myself
    </p>
@@ -19,19 +18,34 @@
     <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
    ✍️ I write blogs about the areas I am interested in https://medium.com/@Emrah_Fdnn
    </p>
-<<<<<<< HEAD
     <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
    💭 Ask me about [Twitter](https://twitter.com/Emrah_fdnn) , [Instagram](https://www.instagram.com/emrah_fdnn/) and [Threads](https://www.threads.net/@emrah_fdnn) !
    </p>
    <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
   📫 How to reach me: emrahfdn.work@gmail.com
    </p> 
-=======
   <p style="text-align: justify; margin: 0 20px; font-size: 15px;">
   📫 How to reach me: <a href="mailto:emrahfdn.work@gmail.com">emrahfdn.work@gmail.com</a>
 </p>
->>>>>>> 8d270d1928d0e0f403a62ba0eaad2c5a085c9731
-<br>
+
+<br />
+<div class="youtube videos cards" align="center">
+    <a href="https://www.linkedin.com/in/emrah-fidann/" target="_blank">
+        <img  style="margin:0 25px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="linkedln" width="35px"/>
+    </a>
+    <a href="https://www.instagram.com/emrah_fdnn/" target="_blank">
+        <img  style="margin:0 25px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="instagram" width="35px"/>
+    </a>
+    <a href="https://twitter.com/Emrah_fdnn" target="_blank">
+        <img  style="margin:0 25px 15px 0;" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="threads" width="38px"/>
+    </a>
+    <a href="https://www.threads.net/@emrah_fdnn" target="_blank">
+        <img  style="margin:0 25px 15px 0;" src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" alt="twitter" width="30px"/>
+    </a>
+    
+<!-- End Footer -->
+
+</div>
 
 <!-- Languages and Tools -->
 
@@ -120,21 +134,4 @@
 
 ---
 
-<br />
-<div class="youtube videos cards" align="center">
-    <a href="https://www.linkedin.com/in/emrah-fidann/" target="_blank">
-        <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="linkedln" width="35px"/>
-    </a>
-    <a href="https://www.instagram.com/emrah_fdnn/" target="_blank">
-        <img  style="margin:0 15px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="instagram" width="35px"/>
-    </a>
-    <a href="https://twitter.com/Emrah_fdnn" target="_blank">
-        <img  style="margin:0 15px 15px 0;" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="threads" width="38px"/>
-    </a>
-    <a href="https://www.threads.net/@emrah_fdnn" target="_blank">
-        <img  style="margin:0 15px 15px 0;" src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" alt="twitter" width="30px"/>
-    </a>
-    
-<!-- End Footer -->
 
-</div>
