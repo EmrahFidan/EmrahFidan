@@ -18,9 +18,6 @@
     <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
    ✍️ I write blogs about the areas I am interested in https://medium.com/@Emrah_Fdnn
    </p>
-    <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
-   💭 Ask me about [Twitter](https://twitter.com/Emrah_fdnn) , [Instagram](https://www.instagram.com/emrah_fdnn/) and [Threads](https://www.threads.net/@emrah_fdnn) !
-   </p>
    <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
   📫 How to reach me: emrahfdn.work@gmail.com
    </p> 
@@ -33,16 +30,13 @@
     <a href="https://www.linkedin.com/in/emrah-fidann/" target="_blank">
         <img  style="margin:0 25px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="linkedln" width="35px"/>
     </a>
-    <a href="https://www.instagram.com/emrah_fdnn/" target="_blank">
-        <img  style="margin:0 25px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="instagram" width="35px"/>
-    </a>
     <a href="https://twitter.com/Emrah_fdnn" target="_blank">
         <img  style="margin:0 25px 15px 0;" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="threads" width="38px"/>
     </a>
-    <a href="https://www.threads.net/@emrah_fdnn" target="_blank">
-        <img  style="margin:0 25px 15px 0;" src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" alt="twitter" width="30px"/>
+    <a href="https://www.instagram.com/emrah_fdnn/" target="_blank">
+        <img  style="margin:0 25px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="instagram" width="35px"/>
     </a>
-    
+   
 <!-- End Footer -->
 
 </div>
@@ -89,7 +83,6 @@
  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
   <img height="50" src="notion.svg" alt="notion"/>
 </a>
-
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img alt="Visual Studio Code" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />    
   </a>
@@ -105,37 +98,22 @@
   <a href="https://www.microsoft.com/tr-tr/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
     <img alt="PowerPoint" height="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=81726&format=png" />    
   </a>
-   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img alt="Pycharm" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  </a>
 </div>
 <br>
 <br>
 
-<!-- Statistics -->
+<details align="center">
+  <summary>More click 👈🏻</summary>
+   <p>
+      
+   </p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmrahFidan&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&token=${process.env.PAT_I}" alt="EmrahFidan" /></p>
 
-<h2 style="color: #2a9d8f">📉 Statistics</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmrahFidan&layout=compact&show_icons=true&theme=tokyonight&border_radius=20&token=${process.env.PAT_I}" alt="EmrahFidan" /></p>
 
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<div class="stats" align="center">
-<!-- Begin Stats Cards -->
-<!-- Resources: -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats -->
-<div class="stats" align="center">
-
-![Emrah Fidan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmrahFidan&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&token=${process.env.PAT_I})
-
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmrahFidan&layout=compact&show_icons=true&theme=tokyonight&border_radius=20&token=${process.env.PAT_I})
-
-
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=EmrahFidan&label=Profile%20views&color=0e75b6&style=flat" alt="EmrahFidan" /> </p> -->
 
 </div>
 <!--  End Stats Cards -->
 
 ---
-
-
