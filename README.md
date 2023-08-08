@@ -24,8 +24,6 @@
   <p style="text-align: justify; margin: 0 20px; font-size: 15px;">
   📫 How to reach me: <a href="mailto:emrahfdn.work@gmail.com">emrahfdn.work@gmail.com</a>
 </p>
-
-<br />
 <div class="youtube videos cards" align="center">
     <a href="https://www.linkedin.com/in/emrah-fidann/" target="_blank">
         <img  style="margin:0 25px 15px 0;" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="linkedln" width="35px"/>
@@ -95,15 +93,15 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
-  <a href="https://www.microsoft.com/tr-tr/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.microsoft.com/tr-tr/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
     <img alt="PowerPoint" height="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=81726&format=png" />    
-  </a>
+  </a> -->
 </div>
 <br>
 <br>
 
 <details align="center">
-  <summary>More click 👈🏻</summary>
+  <summary>👇🏻 Statistics</summary>
    <p>
       
    </p>
@@ -116,4 +114,3 @@
 </div>
 <!--  End Stats Cards -->
 
----
