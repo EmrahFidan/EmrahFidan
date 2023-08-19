@@ -1,9 +1,9 @@
 <!--başlık--> 
-<h1 style="color: #2a9d8f;"> 👨🏻‍💻 Emrah Fidan </h1>
+<h1 style="color: #2a9d8f;"> 🧑‍💻 Emrah Fidan </h1>
 
 <!--about--> 
 <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
-   💕 I am software developer interested in deep learning, front-end, mobile application development, data management. I chose my profession because of my interest in artificial intelligence, I want to progress in machine learning and deep learning.
+   🌍 I am software developer interested in deep learning, front-end, mobile application development, data management. I chose my profession because of my interest in artificial intelligence, I want to progress in machine learning and deep learning.
    </p>
    <br>
    <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
