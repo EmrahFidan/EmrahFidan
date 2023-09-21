@@ -1,13 +1,16 @@
-<!--başlık--> 
-<h1 style="color: #2a9d8f;"> 🧑‍💻 Emrah Fidan </h1>
 
+
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=800&height=80&lines=Emrah+Fidan;Project+Manager+%7C+Machine Learning Engineer+%7C+Computer+Engineering+Student;AI+%7C+Deep+Learning+%7C+Mobile+App+%7C+Frontend+Web" alt="Typing SVG" />
+</a>
+<br/>
+
+
+<br>
 <!--about--> 
 <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
    🌍 I am software developer interested in deep learning, front-end, mobile application development, data management. I chose my profession because of my interest in artificial intelligence, I want to progress in machine learning and deep learning.
-   </p>
-   <br>
-   <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
-   Instagram: @emrah_fdnn 
    </p>
       <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
    💻 I’m currently working in every field, tryingto improve myself
