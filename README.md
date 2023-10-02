@@ -18,9 +18,6 @@
    <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
     🌱 I’m currently developing myself in the field of machine learning
    </p>
-    <p style="text-align: justify; margin: 0 20px; font-size: 15px;" >
-   ✍️ I write blogs about the areas I am interested in https://medium.com/@Emrah_Fdnn
-   </p>
   <p style="text-align: justify; margin: 0 20px; font-size: 15px;">
   📫 How to reach me: <a href="mailto:emrahfdn.work@gmail.com">emrahfdn.work@gmail.com</a>
 </p>
