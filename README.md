@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=800&height=80&lines=Emrah+Fidan;Project+Manager+%7C+Machine Learning Engineer+%7C+Computer+Engineering+Student;AI+%7C+Deep+Learning+%7C+Mobile+App+%7C+Frontend+Web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=800&height=80&lines=Emrah+Fidan;Project+Manager+%7C+Machine Learning Engineer+%7C+Computer+Engineering+Student;AI+%7C+Deep+Learning+%7C+Mobile+App+Developer+%7C+Web+Design" alt="Typing SVG" />
 </a>
 <br/>
 
