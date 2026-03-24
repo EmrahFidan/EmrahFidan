@@ -22,6 +22,25 @@
 
 ---
 
+## 🗂️ Featured Projects
+
+<div align="center">
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**AgriScan**](https://github.com/EmrahFidan/AgriScan) | FastAPI · React · YOLOv11 | Tomato leaf disease detection — 91.35% F1 score |
+| [**MissingLink**](https://github.com/EmrahFidan/MissingLink) | FastAPI · React · CTGAN | Synthetic tabular data generation with deep learning |
+| [**RevenueRadar**](https://github.com/EmrahFidan/RevenueRadar) | FastAPI · React · Groq | B2B lead scoring — hybrid rule-based + AI system |
+| [**ClientFlow**](https://github.com/EmrahFidan/clientflow) | Next.js · Firebase · Groq | Agency client portal with AI-powered update translation |
+| [**ERP Demo AI**](https://github.com/EmrahFidan/erp-demo-ai) | React · Firebase · Gemini | ERP demo with AI-driven narrative reports |
+| [**Xelay**](https://github.com/EmrahFidan/xelay-app) | React Native · Expo · Firebase | Personal finance app with conscience accounting |
+| [**YuLaF**](https://github.com/EmrahFidan/YuLaF-YouTube-Language-Filter) | Chrome Extension · JS | YouTube video language filter extension |
+| [**AppleDisease**](https://github.com/EmrahFidan/AppleDisease_IP-Project) | Python · YOLOv11 · Jupyter | Apple leaf disease classification — 99.18% accuracy |
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 > **"Building bridges between technology and psychology, transforming agricultural challenges into AI-powered solutions"**
